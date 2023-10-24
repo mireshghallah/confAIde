@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "privacy-sharing-error_mean": 0.12481481481481482,
+    "privacy-sharing-error_worst_case": 0.5555555555555556
+}

@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "action-item-error_mean": 0.845,
+    "action-item-error_worst_case": 1.0
+}

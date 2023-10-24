@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "info-accessibility-error_mean": 0.7885185185185185,
+    "info-accessibility-error_worst_case": 1.0
+}

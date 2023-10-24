@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "binary-error_mean": 0.0,
+    "binary-error_worst_case": 0.0
+}

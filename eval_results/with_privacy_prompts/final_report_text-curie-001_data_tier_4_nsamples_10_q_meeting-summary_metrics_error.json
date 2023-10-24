@@ -1,0 +1,5 @@
+{
+    "model": "text-curie-001",
+    "meeting-summary-error_mean": 0.93,
+    "meeting-summary-error_worst_case": 1.0
+}

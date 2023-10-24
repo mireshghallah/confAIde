@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "binary-error_mean": 0.3918518518518519,
+    "binary-error_worst_case": 0.9851851851851852
+}

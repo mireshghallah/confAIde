@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4-0613",
+    "privacy-sharing-error_mean": 0.01814814814814815,
+    "privacy-sharing-error_worst_case": 0.025925925925925925
+}

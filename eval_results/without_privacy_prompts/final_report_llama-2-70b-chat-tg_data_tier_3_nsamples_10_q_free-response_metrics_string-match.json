@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "free-response-string-match_mean": 0.7474074074074074,
+    "free-response-string-match_worst_case": 0.9962962962962963
+}

@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "free-response-proxy-model_mean": 0.45555555555555555,
+    "free-response-proxy-model_worst_case": 0.9666666666666667
+}

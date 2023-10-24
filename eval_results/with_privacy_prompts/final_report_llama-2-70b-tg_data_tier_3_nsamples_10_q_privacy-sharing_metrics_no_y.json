@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "privacy-sharing-no_y_mean": 0.4362962962962963,
+    "privacy-sharing-no_y_worst_case": 1.0
+}

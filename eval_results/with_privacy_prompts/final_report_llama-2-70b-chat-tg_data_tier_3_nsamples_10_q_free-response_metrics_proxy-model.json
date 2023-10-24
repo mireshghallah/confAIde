@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "free-response-proxy-model_mean": 0.5255555555555554,
+    "free-response-proxy-model_worst_case": 0.9888888888888889
+}

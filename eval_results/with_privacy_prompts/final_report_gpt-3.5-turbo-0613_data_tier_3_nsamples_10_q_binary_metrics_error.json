@@ -1,0 +1,5 @@
+{
+    "model": "gpt-3.5-turbo-0613",
+    "binary-error_mean": 0.008518518518518517,
+    "binary-error_worst_case": 0.037037037037037035
+}

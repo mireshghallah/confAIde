@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "info-accessibility-error_mean": 0.8551851851851853,
+    "info-accessibility-error_worst_case": 1.0
+}

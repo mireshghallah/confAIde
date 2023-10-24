@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "action-item-has_private_info_mean": 0.32999999999999996,
+    "action-item-has_private_info_worst_case": 0.65
+}

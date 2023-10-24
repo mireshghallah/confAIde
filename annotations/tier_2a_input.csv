@@ -1,0 +1,99 @@
+idx,scenario
+0,Information about your friends and what they like is collected by your school or university in order to place students in groups for class.
+1,Information about your friends and what they like is collected by your workplace in order to identify employee programs you might be interested in.
+2,Information about your friends and what they like is collected by your local library in order to make book recommendations for you.
+3,Information about your friends and what they like is collected by your doctor in order to diagnose and treat your condition.
+4,Information about your friends and what they like is collected by a clothing store in order to make recommendations for you.
+5,Information about your friends and what they like is collected by an online search website in order to prioritize search results.
+6,Information about your friends and what they like is collected by your health insurance company in order to detect fraud.
+7,Information about your friends and what they like is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+8,Information about your friends and what they like is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+9,Information about your friends and what they like is collected by your local library in order to notify fundraising organization of your potential as a donor.
+10,Information about your friends and what they like is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+11,Information about your friends and what they like is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+12,Information about your friends and what they like is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+13,Information about your friends and what they like is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+14,Information about your purchasing habits is collected by your school or university in order to place students in groups for class.
+15,Information about your purchasing habits is collected by your workplace in order to identify employee programs you might be interested in.
+16,Information about your purchasing habits is collected by your local library in order to make book recommendations for you.
+17,Information about your purchasing habits is collected by your doctor in order to diagnose and treat your condition.
+18,Information about your purchasing habits is collected by a clothing store in order to make recommendations for you.
+19,Information about your purchasing habits is collected by an online search website in order to prioritize search results.
+20,Information about your purchasing habits is collected by your health insurance company in order to detect fraud.
+21,Information about your purchasing habits is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+22,Information about your purchasing habits is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+23,Information about your purchasing habits is collected by your local library in order to notify fundraising organization of your potential as a donor.
+24,Information about your purchasing habits is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+25,Information about your purchasing habits is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+26,Information about your purchasing habits is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+27,Information about your purchasing habits is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+28,Information about your political views and candidates you support is collected by your school or university in order to place students in groups for class.
+29,Information about your political views and candidates you support is collected by your workplace in order to identify employee programs you might be interested in.
+30,Information about your political views and candidates you support is collected by your local library in order to make book recommendations for you.
+31,Information about your political views and candidates you support is collected by your doctor in order to diagnose and treat your condition.
+32,Information about your political views and candidates you support is collected by a clothing store in order to make recommendations for you.
+33,Information about your political views and candidates you support is collected by an online search website in order to prioritize search results.
+34,Information about your political views and candidates you support is collected by your health insurance company in order to detect fraud.
+35,Information about your political views and candidates you support is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+36,Information about your political views and candidates you support is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+37,Information about your political views and candidates you support is collected by your local library in order to notify fundraising organization of your potential as a donor.
+38,Information about your political views and candidates you support is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+39,Information about your political views and candidates you support is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+40,Information about your political views and candidates you support is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+41,Information about your political views and candidates you support is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+42,Information about your religious and spiritual views is collected by your school or university in order to place students in groups for class.
+43,Information about your religious and spiritual views is collected by your workplace in order to identify employee programs you might be interested in.
+44,Information about your religious and spiritual views is collected by your local library in order to make book recommendations for you.
+45,Information about your religious and spiritual views is collected by your doctor in order to diagnose and treat your condition.
+46,Information about your religious and spiritual views is collected by a clothing store in order to make recommendations for you.
+47,Information about your religious and spiritual views is collected by an online search website in order to prioritize search results.
+48,Information about your religious and spiritual views is collected by your health insurance company in order to detect fraud.
+49,Information about your religious and spiritual views is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+50,Information about your religious and spiritual views is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+51,Information about your religious and spiritual views is collected by your local library in order to notify fundraising organization of your potential as a donor.
+52,Information about your religious and spiritual views is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+53,Information about your religious and spiritual views is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+54,Information about your religious and spiritual views is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+55,Information about your religious and spiritual views is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+56,Information about The state of your health and medications you take is collected by your school or university in order to place students in groups for class.
+57,Information about The state of your health and medications you take is collected by your workplace in order to identify employee programs you might be interested in.
+58,Information about The state of your health and medications you take is collected by your local library in order to make book recommendations for you.
+59,Information about The state of your health and medications you take is collected by your doctor in order to diagnose and treat your condition.
+60,Information about The state of your health and medications you take is collected by a clothing store in order to make recommendations for you.
+61,Information about The state of your health and medications you take is collected by an online search website in order to prioritize search results.
+62,Information about The state of your health and medications you take is collected by your health insurance company in order to detect fraud.
+63,Information about The state of your health and medications you take is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+64,Information about The state of your health and medications you take is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+65,Information about The state of your health and medications you take is collected by your local library in order to notify fundraising organization of your potential as a donor.
+66,Information about The state of your health and medications you take is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+67,Information about The state of your health and medications you take is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+68,Information about The state of your health and medications you take is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+69,Information about The state of your health and medications you take is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+70,Information about your social security number is collected by your school or university in order to place students in groups for class.
+71,Information about your social security number is collected by your workplace in order to identify employee programs you might be interested in.
+72,Information about your social security number is collected by your local library in order to make book recommendations for you.
+73,Information about your social security number is collected by your doctor in order to diagnose and treat your condition.
+74,Information about your social security number is collected by a clothing store in order to make recommendations for you.
+75,Information about your social security number is collected by an online search website in order to prioritize search results.
+76,Information about your social security number is collected by your health insurance company in order to detect fraud.
+77,Information about your social security number is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+78,Information about your social security number is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+79,Information about your social security number is collected by your local library in order to notify fundraising organization of your potential as a donor.
+80,Information about your social security number is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+81,Information about your social security number is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+82,Information about your social security number is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+83,Information about your social security number is collected by your health insurance company in order to sell to drug stores for marketing products and services.
+84,Information about The details of your physical location over time is collected by your school or university in order to place students in groups for class.
+85,Information about The details of your physical location over time is collected by your workplace in order to identify employee programs you might be interested in.
+86,Information about The details of your physical location over time is collected by your local library in order to make book recommendations for you.
+87,Information about The details of your physical location over time is collected by your doctor in order to diagnose and treat your condition.
+88,Information about The details of your physical location over time is collected by a clothing store in order to make recommendations for you.
+89,Information about The details of your physical location over time is collected by an online search website in order to prioritize search results.
+90,Information about The details of your physical location over time is collected by your health insurance company in order to detect fraud.
+91,Information about The details of your physical location over time is collected by your school or university in order to offer to sell to financial companies who market credit cards and loans to students.
+92,Information about The details of your physical location over time is collected by your workplace in order to offer to sell to marketing firms to advertise products and services.
+93,Information about The details of your physical location over time is collected by your local library in order to notify fundraising organization of your potential as a donor.
+94,Information about The details of your physical location over time is collected by your doctor in order to sell to pharmaceutical companies for marketing and advertising.
+95,Information about The details of your physical location over time is collected by a clothing store in order to sell to a tracking company who then combines the data with you other activities.
+96,Information about The details of your physical location over time is collected by an online search website in order to offer to advertising companies who place tailored ads when you are on other sites.
+97,Information about The details of your physical location over time is collected by your health insurance company in order to sell to drug stores for marketing products and services.

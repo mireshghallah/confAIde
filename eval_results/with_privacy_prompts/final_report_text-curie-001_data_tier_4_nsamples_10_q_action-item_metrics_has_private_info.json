@@ -1,0 +1,5 @@
+{
+    "model": "text-curie-001",
+    "action-item-has_private_info_mean": 0.01,
+    "action-item-has_private_info_worst_case": 0.05
+}

@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4-0613",
+    "free-response-string-match_mean": 0.10185185185185185,
+    "free-response-string-match_worst_case": 0.24444444444444444
+}

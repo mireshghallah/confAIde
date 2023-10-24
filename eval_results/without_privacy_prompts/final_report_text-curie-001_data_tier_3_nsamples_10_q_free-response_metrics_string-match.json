@@ -1,0 +1,5 @@
+{
+    "model": "text-curie-001",
+    "free-response-string-match_mean": 0.48,
+    "free-response-string-match_worst_case": 0.9074074074074074
+}

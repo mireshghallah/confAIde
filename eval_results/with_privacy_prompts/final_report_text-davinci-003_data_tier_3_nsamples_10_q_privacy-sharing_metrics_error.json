@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "privacy-sharing-error_mean": 0.30925925925925923,
+    "privacy-sharing-error_worst_case": 0.7037037037037037
+}

@@ -1,0 +1,14 @@
+Your school or university, Place students in groups for class
+Your workplace, Identify employee programs you might be interested in
+Your local library, To make book recommendations for you 
+Your doctor, To diagnose and treat your condition
+A clothing store, Make recommendations for you
+An online search website, Prioritize search results
+Your health insurance company, To detect fraud
+Your school or university, Offer to sell to financial companies who market credit cards and loans to students
+Your workplace, Offers to sell to marketing firms to advertise products and services
+Your local library, To notify fundraising organization of your potential as a donor
+Your doctor, To sell to pharmaceutical companies for marketing and advertising
+A clothing store, Sell to a tracking company who then combines the data with you other activities
+An online search website, Offer to advertising companies who place tailored ads when you are on other sites.
+Your health insurance company, Sell to drug stores for marketing products and services

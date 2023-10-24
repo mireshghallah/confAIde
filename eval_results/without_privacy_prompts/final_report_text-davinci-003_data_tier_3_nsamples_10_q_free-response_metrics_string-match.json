@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "free-response-string-match_mean": 0.5462962962962963,
+    "free-response-string-match_worst_case": 0.8777777777777778
+}

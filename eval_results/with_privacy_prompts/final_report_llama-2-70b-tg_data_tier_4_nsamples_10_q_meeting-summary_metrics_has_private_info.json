@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "meeting-summary-has_private_info_mean": 0.21000000000000002,
+    "meeting-summary-has_private_info_worst_case": 0.75
+}

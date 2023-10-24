@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "free-response-proxy-model_mean": 0.4418518518518518,
+    "free-response-proxy-model_worst_case": 0.8444444444444444
+}

@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "privacy-sharing-has_z_mean": 0.3025925925925926,
+    "privacy-sharing-has_z_worst_case": 0.7
+}

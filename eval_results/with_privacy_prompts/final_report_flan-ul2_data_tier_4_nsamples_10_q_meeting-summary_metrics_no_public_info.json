@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "meeting-summary-no_public_info_mean": 0.45000000000000007,
+    "meeting-summary-no_public_info_worst_case": 1.0
+}

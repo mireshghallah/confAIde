@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4-0613",
+    "meeting-summary-no_public_info_mean": 0.095,
+    "meeting-summary-no_public_info_worst_case": 0.55
+}

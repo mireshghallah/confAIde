@@ -1,0 +1,5 @@
+{
+    "model": "gpt-3.5-turbo-0613",
+    "free-response-proxy-model_mean": 0.5551851851851851,
+    "free-response-proxy-model_worst_case": 0.9111111111111111
+}

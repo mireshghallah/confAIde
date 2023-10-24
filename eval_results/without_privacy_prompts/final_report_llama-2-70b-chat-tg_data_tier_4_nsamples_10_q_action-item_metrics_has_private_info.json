@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "action-item-has_private_info_mean": 0.41999999999999993,
+    "action-item-has_private_info_worst_case": 0.9
+}

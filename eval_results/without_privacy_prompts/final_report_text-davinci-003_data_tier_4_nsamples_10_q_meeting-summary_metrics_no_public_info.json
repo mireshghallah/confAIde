@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "meeting-summary-no_public_info_mean": 0.62,
+    "meeting-summary-no_public_info_worst_case": 1.0
+}

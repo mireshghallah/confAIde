@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "free-response-string-match_mean": 0.6085185185185186,
+    "free-response-string-match_worst_case": 0.9925925925925926
+}

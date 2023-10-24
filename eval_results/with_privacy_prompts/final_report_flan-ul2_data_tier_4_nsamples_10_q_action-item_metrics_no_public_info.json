@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "action-item-no_public_info_mean": 0.765,
+    "action-item-no_public_info_worst_case": 1.0
+}

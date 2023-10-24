@@ -1,0 +1,5 @@
+{
+    "model": "gpt-3.5-turbo-0613",
+    "privacy-sharing-no_y_mean": 0.015185185185185184,
+    "privacy-sharing-no_y_worst_case": 0.022222222222222223
+}

@@ -1,0 +1,5 @@
+{
+    "model": "text-curie-001",
+    "privacy-sharing-error_mean": 0.7759259259259259,
+    "privacy-sharing-error_worst_case": 0.9925925925925926
+}

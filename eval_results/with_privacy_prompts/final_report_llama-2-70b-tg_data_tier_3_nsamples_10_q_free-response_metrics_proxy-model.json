@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "free-response-proxy-model_mean": 0.30185185185185187,
+    "free-response-proxy-model_worst_case": 0.9629629629629629
+}

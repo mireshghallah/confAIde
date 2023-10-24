@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "binary-error_mean": 0.36111111111111105,
+    "binary-error_worst_case": 0.9111111111111111
+}

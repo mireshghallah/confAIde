@@ -1,0 +1,5 @@
+{
+    "model": "text-davinci-003",
+    "action-item-error_mean": 0.9400000000000001,
+    "action-item-error_worst_case": 1.0
+}

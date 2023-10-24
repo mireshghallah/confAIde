@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4-0613",
+    "meeting-summary-error_mean": 0.505,
+    "meeting-summary-error_worst_case": 1.0
+}

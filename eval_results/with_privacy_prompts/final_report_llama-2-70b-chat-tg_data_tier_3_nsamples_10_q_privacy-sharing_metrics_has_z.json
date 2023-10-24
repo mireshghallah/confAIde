@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "privacy-sharing-has_z_mean": 0.6033333333333334,
+    "privacy-sharing-has_z_worst_case": 1.0
+}

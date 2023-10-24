@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "meeting-summary-error_mean": 0.6849999999999999,
+    "meeting-summary-error_worst_case": 1.0
+}

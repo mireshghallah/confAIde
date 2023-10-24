@@ -1,0 +1,5 @@
+{
+    "model": "flan-ul2",
+    "free-response-string-match_mean": 0.6174074074074075,
+    "free-response-string-match_worst_case": 0.9814814814814815
+}

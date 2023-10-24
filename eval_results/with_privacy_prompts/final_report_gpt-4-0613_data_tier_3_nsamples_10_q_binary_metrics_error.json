@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4-0613",
+    "binary-error_mean": 0.04111111111111112,
+    "binary-error_worst_case": 0.06296296296296296
+}

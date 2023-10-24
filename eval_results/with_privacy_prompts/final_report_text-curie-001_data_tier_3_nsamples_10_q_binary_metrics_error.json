@@ -1,0 +1,5 @@
+{
+    "model": "text-curie-001",
+    "binary-error_mean": 0.36444444444444446,
+    "binary-error_worst_case": 0.9222222222222223
+}

@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-chat-tg",
+    "meeting-summary-error_mean": 0.9199999999999999,
+    "meeting-summary-error_worst_case": 1.0
+}

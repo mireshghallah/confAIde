@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "action-item-no_public_info_mean": 0.8700000000000001,
+    "action-item-no_public_info_worst_case": 1.0
+}

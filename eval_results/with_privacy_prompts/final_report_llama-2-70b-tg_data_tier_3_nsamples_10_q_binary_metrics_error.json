@@ -1,0 +1,5 @@
+{
+    "model": "llama-2-70b-tg",
+    "binary-error_mean": 0.778888888888889,
+    "binary-error_worst_case": 1.0
+}

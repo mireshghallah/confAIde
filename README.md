@@ -3,3 +3,12 @@
 This is the repository for the ConfAIde benchmark, on evaluating inference-time privacy implications of LLMs, in interactive settings. The benchmark has 4 tiers, and you can find the dataset/scenarios under the `./benchmark` directory.
 
 ## Reproducing the result
+
+First, create the conda environment by running:
+```
+conda env create -f environment.yml
+```
+
+and then activate it:
+```
+conda activate confaide

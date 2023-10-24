@@ -1,4 +1,4 @@
-name: privacy-project
+name: confaide
 channels:
   - defaults
   - conda-forge

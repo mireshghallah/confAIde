@@ -12,3 +12,8 @@ conda env create -f environment.yml
 and then activate it:
 ```
 conda activate confaide
+
+
+
+We have also stored all the results and model responses in the `./eval_results` folder.
+## 
